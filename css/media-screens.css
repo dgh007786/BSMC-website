@@ -14,7 +14,7 @@ URL:        http://quintuswp.modeltheme.com/
 4. Responsive Min_480px Max_767px
 5. Responsive Max_767px
 6. Responsive Min_768px
-7. Responsive Max_960px
+7. Responsive Max_960pxf
 8. Responsive Max_1024px
 9. Responsive Min_1024px
 10. Responsive Min_1367px
@@ -79,6 +79,20 @@ URL:        http://quintuswp.modeltheme.com/
      .calc{
         margin-left: 0px;
     }
+    .indexstyle{
+        font-size:20px !important;
+    }
+    .indexstyle2{
+        display: none;
+    }
+    .about{
+        font-size: 20px !important;
+       margin: 10px 35px 10px 40px !important;
+    }
+     .logomy{
+        width: 60%;
+    }
+    
 }
 
 
@@ -117,6 +131,20 @@ URL:        http://quintuswp.modeltheme.com/
     }
     .calc{
         margin-left: 0px;
+    }
+    .indexstyle{
+        font-size:20px !important;
+    }
+    .indexstyle2{
+        display: none;
+    }
+    .about{
+        font-size: 20px !important;
+       margin: 10px 35px 10px 40px !important;
+        
+    }
+     .logomy{
+        width: 60%;
     }
 }
 
@@ -166,6 +194,20 @@ URL:        http://quintuswp.modeltheme.com/
      .calc{
         margin-left: 0px;
     }
+    .indexstyle{
+        font-size:20px !important;
+    }
+    .indexstyle2{
+        display: none;
+    }
+    .about{
+        font-size: 20px !important;
+       margin: 10px 35px 10px 40px !important;
+        
+    }
+     .logomy{
+        width: 60%;
+    }
 }
 
 
@@ -212,6 +254,20 @@ URL:        http://quintuswp.modeltheme.com/
     }
      .calc{
         margin-left: 0px;
+    }
+    .about{
+        font-size: 20px !important;
+        margin: 10px 35px 10px 40px !important;
+        
+    }
+    .indexstyle{
+        font-size: 20px !important; 
+    }
+    .indexstyle2{
+        display: none;
+    }
+    .logomy{
+        width: 60%;
     }
 }
 
@@ -640,10 +696,20 @@ URL:        http://quintuswp.modeltheme.com/
         font-size: 110px !important;
     }
     
+    
+    .indexstyle{
+        font-size:20px !important;
+    }
+    .indexstyle2{
+        display: none;
+    }
     .about{
-        font-size: 16px;
-        margin: 0;
-        padding: 0;
+        font-size: 20px !important;
+        margin: 10px 35px 10px 40px !important;
+        
+    }
+     .logomy{
+        width: 60%;
     }
 }
 
